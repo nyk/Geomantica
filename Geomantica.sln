@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Geomantica", "Geomantica\Geomantica\Geomantica.shproj", "{997E59CA-8DA8-4D6B-9E98-5543A977F480}"
 EndProject
@@ -16,6 +16,7 @@ Global
 		Geomantica\Geomantica\Geomantica.projitems*{4fed1e22-19c4-4650-b41e-3207b1d56a46}*SharedItemsImports = 4
 		Geomantica\Geomantica\Geomantica.projitems*{7a305d5f-b180-4134-83ba-27375918ee4b}*SharedItemsImports = 4
 		Geomantica\Geomantica\Geomantica.projitems*{997e59ca-8da8-4d6b-9e98-5543a977f480}*SharedItemsImports = 13
+		Geomantica\Geomantica\Geomantica.projitems*{f0fdb6ac-b5ce-4a21-878d-37df0a5c400a}*SharedItemsImports = 4
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Ad-Hoc|Any CPU = Ad-Hoc|Any CPU
